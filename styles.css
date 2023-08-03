@@ -1,0 +1,46 @@
+.header-image {
+background-image: url("Images/header.png");
+background-position: center;
+background-repeat: no-repeat;
+position: relative;
+background-size: cover;
+height: 700px;
+
+}
+
+.header-text {
+  text-align: center;
+  position: relative;
+  top: 75%;
+  color: black;
+
+}
+
+.banner {
+    position: relative;
+}
+.banner img{
+    max-width: 100%;
+}
+
+.banner .banner-content {
+    position: absolute;
+    top: 20%;
+
+}
+
+.logo {
+    width: 60%;
+    margin: auto;
+    display: block;
+
+}
+
+.intro{
+    text-align: center;
+    font-size: 2vw;
+    font-family: Trebuchet MS;
+    font-style: bold;
+
+
+}
